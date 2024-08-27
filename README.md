@@ -25,7 +25,6 @@ Welcome to my GitHub portfolio! I'm a passionate full-stack developer with exper
 I'm continuously expanding my knowledge in the following areas:
 
 - **Blockchain Development:** Exploring deeper into decentralized applications (DApps) and smart contracts.
-- **3D Graphics:** Enhancing my skills in 3D rendering and visualization using WebGL and Three.js.
 - **DevOps:** Improving my expertise in containerization, orchestration, and scalable infrastructure.
 
 ## 📫 Connect with Me
